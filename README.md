@@ -17,7 +17,7 @@ Possible future improvements/augmentations:-
   - Improve changing background image functionality (sometimes fine, but sometimes shows gray background briefly before loading next image, interval that images change at seems inconsistent sometimes too)
 
 ## Other Projects
-More interesting than the exercise solutions, but not as large/complex as the Ratchet & Clank Weapon Game, these are a mix of small-to-medium games/programs including: Hangman, Tic-Tac-Toe & an Anagram Game all made in Java, as well as the aforementioned Breakout game made in JavaScript
+More interesting than the exercise solutions, but not as large/complex as the Ratchet & Clank Weapon Game, these are a mix of small-to-medium games/programs including: Hangman, Tic-Tac-Toe & an Anagram Game all made in Java, as well as the aforementioned Breakout game made in JavaScript.
 
 ## Codility & Hackajob Practice Exercises
-Small programs, solutions to an assortment of programming practice exercises found on the Codility & Hackajob platforms. All of these were done in Java
+Small programs, solutions to an assortment of programming practice exercises found on the Codility & Hackajob platforms. All of these were done in Java.
