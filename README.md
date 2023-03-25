@@ -10,12 +10,21 @@ Inspired by games like 'Wordle' & 'Who Are Ya?', this is a guessing game based a
 
 ![Screenshot of Java version of Ratchet & Clank Weapon Game example playthrough.](/Ratchet%20&%20Clank%20Weapon%20Game/RCWG-Pics/Screenshot%202023-03-24%20185126.jpg)
 
+### UPDATE re: ReactJS Version (25/03/23):-
+More weapons added and, more notably, game now playable on mobile with some layout changes made to allow the panels, inputs, info etc. to be shown as clearly as possible (only tested on personal mobile device). Screenshots & further details shown below:-
+- Guesses/rows changed to 3X2 grids with guess number clearly labelled & category shown within each panel to fit on narrower screens
+- '?' panel changed to image list showing all possible weapon names & matching pictures with target weapon shown in win/loss pop-up since '?' panel likely to be off-screen after 2-3 guesses
+
+![Screenshot of ReactJS version of Ratchet & Clank Weapon Game on mobile.](/Ratchet%20&%20Clank%20Weapon%20Game/RCWG-Pics/Screenshot_20230325_172434_Chrome.jpg) 
+
+![Screenshot of mobile ReactJS Ratchet & Clank Weapon Game win pop-up example.](/Ratchet%20&%20Clank%20Weapon%20Game/RCWG-Pics/Screenshot_20230325_172615_Chrome.jpg)
+
 Possible future improvements/augmentations:-
 - Java Version
   - More polished image display
   - Improve overall aesthetics
 
-- ReactJS Version
+- ReactJS Version (mobile & browser)
   - Add more games/weapons like on the Java version
   - More polished image display here also
   - Improve changing background image functionality (sometimes fine, but sometimes shows gray background briefly before loading next image, interval that images change at seems inconsistent sometimes too)
