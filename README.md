@@ -20,6 +20,9 @@ More weapons added and, more notably, game now playable on mobile with some layo
   <img src="/Ratchet%20&%20Clank%20Weapon%20Game/RCWG-Pics/Screenshot_20230325_172615_Chrome.jpg">
 </p>
 
+### UPDATE re: ReactJS Version (31/03/23):-
+Fixed jarring background image transitions, smoother fade in/out effect implemented via css improvement. More weapons added again and small border added to image list on mobile version for neater display of weapon images regardless of number of images (i.e. outline of image list still clearly defined when no. of images dosn't divide evenly into 3).
+
 Possible future improvements/augmentations:-
 - Java Version
   - More polished image display
@@ -27,8 +30,7 @@ Possible future improvements/augmentations:-
 
 - ReactJS Version (mobile & browser)
   - Add more games/weapons like on the Java version
-  - More polished image display here also
-  - Improve changing background image functionality (sometimes fine, but sometimes shows gray background briefly before loading next image, interval that images change at seems inconsistent sometimes too)
+  - More polished image display potentially possible here also
 
 ## Other Projects
 More interesting than the exercise solutions, but not as large/complex as the Ratchet & Clank Weapon Game, these are a mix of small-to-medium games/programs including: Hangman, Tic-Tac-Toe & an Anagram Game all made in Java, as well as the aforementioned Breakout game made in JavaScript. Screenshot of an example (partial) playthrough of the Anagram Game shown below:-
