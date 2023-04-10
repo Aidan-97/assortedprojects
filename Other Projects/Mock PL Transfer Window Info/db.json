@@ -1,0 +1,1349 @@
+{
+  "teams": [
+      {
+          "team": "Arsenal",
+          "teamShort": "ARS",
+          "teamBGC": "red",
+          "ins": [
+              {
+                  "player": "Ndicka",
+                  "from": "Eintracht Frankfurt",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Neves",
+                  "from": "Wolves",
+                  "fee": 44000000
+              },
+              {
+                  "player": "Hojlund",
+                  "from": "Atalanta",
+                  "fee": 40000000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Runnarsson",
+                  "fee": 1800000
+              },
+              {
+                  "player": "Holding",
+                  "fee": 10500000
+              },
+              {
+                  "player": "Mari",
+                  "fee": 5900000
+              },
+              {
+                  "player": "Tavares",
+                  "fee": 9500000
+              },
+              {
+                  "player": "Cedric",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Elneny",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Lokonga",
+                  "fee": 14700000
+              },
+              {
+                  "player": "Maitland-Niles",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Pepe",
+                  "fee": "Free"
+              }
+          ]
+      },
+      {
+          "team": "Aston Villa",
+          "teamShort": "AST",
+          "teamBGC": "rgb(98, 4, 4)",
+          "ins": [
+              {
+                  "player": "Salisu",
+                  "from": "Southampton",
+                  "fee": 19500000
+              },
+              {
+                  "player": "Dahoud",
+                  "from": "Borussia Dortmund",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Lo Celso",
+                  "from": "Tottenham",
+                  "fee": 19300000
+              },
+              {
+                  "player": "Danjuma",
+                  "from": "Villareal",
+                  "fee": 35000000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Hause",
+                  "fee": 3000000
+              },
+              {
+                  "player": "Young",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Luiz",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Nakamba",
+                  "fee": 3100000
+              },
+              {
+                  "player": "Sanson",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Coutinho",
+                  "fee": 10100000
+              },
+              {
+                  "player": "Traore",
+                  "fee": 5400000
+              },
+              {
+                  "player": "Wesley",
+                  "fee": 2100000
+              },
+              {
+                  "player": "Davis",
+                  "fee": 3700000
+              }
+          ]
+      },
+      {
+          "team": "Burnley",
+          "teamShort": "BUR",
+          "teamBGC": "rgb(98, 4, 4)",
+          "ins": [
+              {
+                  "player": "Hien",
+                  "from": "Hellas Verona",
+                  "fee": 10000000
+              },
+              {
+                  "player": "Beyer",
+                  "from": "Borussia Monchengladbach",
+                  "fee": 6400000
+              },
+              {
+                  "player": "Harwood-Bellis",
+                  "from": "Manchester City",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Maatsen",
+                  "from": "Chelsea",
+                  "fee": 5300000
+              },
+              {
+                  "player": "Stach",
+                  "from": "Mainz",
+                  "fee": 9400000
+              },
+              {
+                  "player": "Grillitsch",
+                  "from": "Ajax",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Kent",
+                  "from": "Rangers",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Origi",
+                  "from": "AC Milan",
+                  "fee": "Loan"
+              }
+          ],
+          "outs": [
+            {
+                "player": "Al-Dakhil",
+                "fee": "Loan"
+            },
+            {
+                "player": "Churlinov",
+                "fee": "Loan"
+            },
+            {
+                "player": "Barnes",
+                "fee": "Free"
+            }
+          ]
+      },
+      {
+          "team": "Brentford",
+          "teamShort": "BRE",
+          "teamBGC": "red",
+          "ins": [
+              {
+                  "player": "Greaves",
+                  "from": "Hull City",
+                  "fee": 8200000
+              },
+              {
+                  "player": "Wagner",
+                  "from": "Philadelphia Union",
+                  "fee": 1600000
+              },
+              {
+                  "player": "Sara",
+                  "from": "Norwich City",
+                  "fee": 17800000
+              },
+              {
+                  "player": "Schade",
+                  "from": "Freiburg",
+                  "fee": 22000000
+              },
+              {
+                  "player": "Okafor",
+                  "from": "RB Salzburg",
+                  "fee": 15000000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Goode",
+                  "fee": 500000
+              },
+              {
+                  "player": "Zanka",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Jansson",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Sorensen",
+                  "fee": 1800000
+              },
+              {
+                  "player": "Fosu",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Baptiste",
+                  "fee": 3800000
+              },
+              {
+                  "player": "Dervisoglu",
+                  "fee": 2900000
+              },
+              {
+                  "player": "Toney",
+                  "fee": 50000000
+              }
+          ]
+      },
+      {
+          "team": "Brighton",
+          "teamShort": "BRI",
+          "teamBGC": "blue",
+          "ins": [
+              {
+                  "player": "Munoz",
+                  "from": "Genk",
+                  "fee": 9000000
+              },
+              {
+                  "player": "Colwill",
+                  "from": "Chelsea",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Serdar",
+                  "from": "Hoffenheim",
+                  "fee": 15000000
+              },
+              {
+                  "player": "Hatate",
+                  "from": "Celtic",
+                  "fee": 16000000
+              },
+              {
+                  "player": "Bennette",
+                  "from": "Sunderland",
+                  "fee": 9500000
+              },
+              {
+                  "player": "Pavlidis",
+                  "from": "AZ Alkmaar",
+                  "fee": 12900000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Van Hecke",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Caicedo",
+                  "fee": 60000000
+              },
+              {
+                  "player": "Mac Allister",
+                  "fee": 54000000
+              },
+              {
+                  "player": "Undav",
+                  "fee": "Loan"
+              }
+          ]
+      },
+      {
+          "team": "Chelsea",
+          "teamShort": "CHE",
+          "teamBGC": "blue",
+          "ins": [
+              {
+                  "player": "Krul",
+                  "from": "Norwich City",
+                  "fee": 1600000
+              },
+              {
+                  "player": "Rice",
+                  "from": "West Ham",
+                  "fee": 65000000
+              },
+              {
+                  "player": "Zakaria",
+                  "from": "Juventus",
+                  "fee": 26000000
+              },
+              {
+                  "player": "Nunes",
+                  "from": "Wolves",
+                  "fee": 45000000
+              },
+              {
+                  "player": "Nkunku",
+                  "from": "RB Leipzig",
+                  "fee": 47500000
+              },
+              {
+                  "player": "Toney",
+                  "from": "Brentford",
+                  "fee": 50000000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Mendy",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Azpilicueta",
+                  "fee": 4300000
+              },
+              {
+                  "player": "Ampadu",
+                  "fee": 6000000
+              },
+              {
+                  "player": "Maatsen",
+                  "fee": 5300000
+              },
+              {
+                  "player": "Kante",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Kovacic",
+                  "fee": 15000000
+              },
+              {
+                  "player": "Gallagher",
+                  "fee": 40000000
+              },
+              {
+                  "player": "Ziyech",
+                  "fee": 15300000
+              },
+              {
+                  "player": "Pulisic",
+                  "fee": 29500000
+              },
+              {
+                  "player": "Hudson-Odoi",
+                  "fee": 15000000
+              },
+              {
+                  "player": "Lukaku",
+                  "fee": 39000000
+              },
+              {
+                  "player": "Aubameyang",
+                  "fee": 5000000
+              }
+          ]
+      },
+      {
+          "team": "Crystal Palace",
+          "teamShort": "PAL",
+          "teamBGC": "rgb(45, 9, 165)",
+          "ins": [
+              {
+                  "player": "Tanganga",
+                  "from": "Tottenham",
+                  "fee": 10500000
+              },
+              {
+                  "player": "Wan-Bissaka",
+                  "from": "Manchester Utd",
+                  "fee": 15100000
+              },
+              {
+                  "player": "Doucoure",
+                  "from": "Everton",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Lavia",
+                  "from": "Southampton",
+                  "fee": 18000000
+              },
+              {
+                  "player": "Aouar",
+                  "from": "Lyon",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Abada",
+                  "from": "Celtic",
+                  "fee": 15000000
+              },
+              {
+                  "player": "Dennis",
+                  "from": "Nottingham Forest",
+                  "fee": "Loan"
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Tomkins",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Clyne",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Ward",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Milivojevic",
+                  "fee": "Free"
+              },
+              {
+                  "player": "McArthur",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Zaha",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Ayew",
+                  "fee": "Free"
+              }
+          ]
+      },
+      {
+          "team": "Fulham",
+          "teamShort": "FUL",
+          "teamBGC": "black",
+          "ins": [
+              {
+                  "player": "Bassey",
+                  "from": "Ajax",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Bensebaini",
+                  "from": "Borussia Monchengladbach",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Heynen",
+                  "from": "Genk",
+                  "fee": 16800000
+              },
+              {
+                  "player": "Oxlade-Chamberlain",
+                  "from": "Liverpool",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Hudson-Odoi",
+                  "from": "Chelsea",
+                  "fee": 15000000
+              },
+              {
+                  "player": "Mavididi",
+                  "from": "Montpellier",
+                  "fee": 7300000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Gazzaniga",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Adarabioyo",
+                  "fee": 15000000
+              },
+              {
+                  "player": "Kongolo",
+                  "fee": 750000
+              },
+              {
+                  "player": "Bryan",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Francois",
+                  "fee": 450000
+              },
+              {
+                  "player": "Knockaert",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Kebano",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Willian",
+                  "fee": "Free"
+              }
+          ]
+      },
+      {
+          "team": "Leeds",
+          "teamShort": "LEE",
+          "teamBGC": "white",
+          "ins": [
+              {
+                  "player": "Todibo",
+                  "from": "Nice",
+                  "fee": 28800000
+              },
+              {
+                  "player": "Maehle",
+                  "from": "Atalanta",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "McKennie",
+                  "from": "Juventus",
+                  "fee": 19500000
+              },
+              {
+                  "player": "Milner",
+                  "from": "Liverpool",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Pedro",
+                  "from": "Watford",
+                  "fee": 25000000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Robles",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Llorente",
+                  "fee": 10000000
+              },
+              {
+                  "player": "Kristensen",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Roberts",
+                  "fee": 3200000
+              },
+              {
+                  "player": "Costa",
+                  "fee": 1900000
+              },
+              {
+                  "player": "Harrison",
+                  "fee": 17400000
+              },
+              {
+                  "player": "Gelhardt",
+                  "fee": "Loan"
+              }
+          ]
+      },
+      {
+          "team": "Leicester",
+          "teamShort": "LEI",
+          "teamBGC": "blue",
+          "ins": [
+              {
+                  "player": "Kelleher",
+                  "from": "Liverpool",
+                  "fee": 16000000
+              },
+              {
+                  "player": "Djimsiti",
+                  "from": "Atalanta",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Ward-Prowse",
+                  "from": "Southampton",
+                  "fee": 25000000
+              },
+              {
+                  "player": "Comesana",
+                  "from": "Rayo Vallecano",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Harrison",
+                  "from": "Leeds",
+                  "fee": 17400000
+              },
+              {
+                  "player": "Tete",
+                  "from": "Shakhtar Donetsk",
+                  "fee": "Loan"
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Vestergaard",
+                  "fee": 3700000
+              },
+              {
+                  "player": "Bertrand",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Soyuncu",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Pereira",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Mendy",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Tielemans",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Maddison",
+                  "fee": 39500000
+              }
+          ]
+      },
+      {
+          "team": "Liverpool",
+          "teamShort": "LIV",
+          "teamBGC": "red",
+          "ins": [
+              {
+                  "player": "Bellingham",
+                  "from": "Borussia Dortmund",
+                  "fee": 91500000
+              },
+              {
+                  "player": "Bennacer",
+                  "from": "AC Milan",
+                  "fee": 44800000
+              },
+              {
+                  "player": "Sutalo",
+                  "from": "Dinamo Zagreb",
+                  "fee": 16000000
+              },
+              {
+                  "player": "Laimer",
+                  "from": "RB Leipzig",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Zieler",
+                  "from": "Hannover 96",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Lumley",
+                  "from": "Middlesborough",
+                  "fee": "Free"
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Kelleher",
+                  "fee": 16000000
+              },
+              {
+                  "player": "Matip",
+                  "fee": 10900000
+              },
+              {
+                  "player": "Phillips",
+                  "fee": 10000000
+              },
+              {
+                  "player": "Williams",
+                  "fee": 2700000
+              },
+              {
+                  "player": "Fabinho",
+                  "fee": 25700000
+              },
+              {
+                  "player": "Clarkson",
+                  "fee": 2100000
+              },
+              {
+                  "player": "Adrian",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Milner",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Keita",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Oxlade-Chamberlain",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Firmino",
+                  "fee": "Free"
+              }
+          ]
+      },
+      {
+          "team": "Manchester City",
+          "teamShort": "MCI",
+          "teamBGC": "lightblue",
+          "ins": [
+              {
+                  "player": "Hernandez",
+                  "from": "AC Milan",
+                  "fee": 62700000
+              },
+              {
+                  "player": "Mac Allister",
+                  "from": "Brighton",
+                  "fee": 54000000
+              },
+              {
+                  "player": "Goncalves",
+                  "from": "Sporting",
+                  "fee": 71200000
+              },
+              {
+                  "player": "Kvaratshkelia",
+                  "from": "Napoli",
+                  "fee": 51500000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Steffen",
+                  "fee": 8000000
+              },
+              {
+                  "player": "Harwood-Bellis",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Cancelo",
+                  "fee": 61500000
+              },
+              {
+                  "player": "Silva",
+                  "fee": 50000000
+              }
+          ]
+      },
+      {
+          "team": "Manchester Utd",
+          "teamShort": "MNU",
+          "teamBGC": "red",
+          "ins": [
+              {
+                  "player": "Timber",
+                  "from": "Ajax",
+                  "fee": 40000000
+              },
+              {
+                  "player": "Frimpong",
+                  "from": "Bayer Leverkusen",
+                  "fee": 34000000
+              },
+              {
+                  "player": "Amrabat",
+                  "from": "Fiorentina",
+                  "fee": 25000000
+              },
+              {
+                  "player": "Tielemans",
+                  "from": "Leicester",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Kane",
+                  "from": "Tottenham",
+                  "fee": 75000000
+              },
+              {
+                  "player": "Adams",
+                  "from": "Southampton",
+                  "fee": 14300000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Maguire",
+                  "fee": 12000000
+              },
+              {
+                  "player": "Bailly",
+                  "fee": 8400000
+              },
+              {
+                  "player": "Wan-Bissaka",
+                  "fee": 15100000
+              },
+              {
+                  "player": "McTominay",
+                  "fee": 25000000
+              },
+              {
+                  "player": "Van de Beek",
+                  "fee": 14500000
+              },
+              {
+                  "player": "Diallo",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Martial",
+                  "fee": 12900000
+              }
+          ]
+      },
+      {
+          "team": "Middlesborough",
+          "teamShort": "MID",
+          "teamBGC": "red",
+          "ins": [
+              {
+                  "player": "Steffen",
+                  "from": "Manchester City",
+                  "fee": 8000000
+              },
+              {
+                  "player": "Quarta",
+                  "from": "Fiorentina",
+                  "fee": 19100000
+              },
+              {
+                  "player": "Palacios",
+                  "from": "Los Angeles FC",
+                  "fee": 3700000
+              },
+              {
+                  "player": "Doherty",
+                  "from": "Atletico Madrid",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Vencedor",
+                  "from": "Athletic Bilbao",
+                  "fee": 13000000
+              },
+              {
+                  "player": "Winks",
+                  "from": "Tottenham",
+                  "fee": 7900000
+              },
+              {
+                  "player": "Diallo",
+                  "from": "Manchester Utd",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Riquelme",
+                  "from": "Atletico Madrid",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Dembele",
+                  "from": "Lyon",
+                  "fee": "Free"
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Lumley",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Dijksteel",
+                  "fee": 2500000
+              },
+              {
+                  "player": "Fisher",
+                  "fee": "Free"
+              }
+          ]
+      },
+      {
+          "team": "Newcastle",
+          "teamShort": "NEW",
+          "teamBGC": "black",
+          "ins": [
+              {
+                  "player": "P. Torres",
+                  "from": "Villareal",
+                  "fee": 35000000
+              },
+              {
+                  "player": "Grimaldo",
+                  "from": "Benfica",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Caicedo",
+                  "from": "Brighton",
+                  "fee": 60000000
+              },
+              {
+                  "player": "Maddison",
+                  "from": "Leicester",
+                  "fee": 39500000
+              },
+              {
+                  "player": "F. Torres",
+                  "from": "Barcelona",
+                  "fee": 45000000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Karius",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Lascelles",
+                  "fee": 4900000
+              },
+              {
+                  "player": "Dummett",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Lewis",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "M. Longstaff",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Hayden",
+                  "fee": 5300000
+              },
+              {
+                  "player": "Ritchie",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Saint-Maximin",
+                  "fee": 37900000
+              },
+              {
+                  "player": "Wood",
+                  "fee": 10000000
+              }
+          ]
+      },
+      {
+          "team": "Nottingham Forest",
+          "teamShort": "NFO",
+          "teamBGC": "red",
+          "ins": [
+              {
+                  "player": "Navas",
+                  "from": "PSG",
+                  "fee": 3900000
+              },
+              {
+                  "player": "Lodi",
+                  "from": "Atletico Madrid",
+                  "fee": 25000000
+              },
+              {
+                  "player": "Gallagher",
+                  "from": "Chelsea",
+                  "fee": 40000000
+              },
+              {
+                  "player": "Sarr",
+                  "from": "Watford",
+                  "fee": 16100000
+              },
+              {
+                  "player": "Wood",
+                  "from": "Newcastle",
+                  "fee": 10000000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Hennessey",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Cook",
+                  "fee": 1000000
+              },
+              {
+                  "player": "Toffolo",
+                  "fee": 4300000
+              },
+              {
+                  "player": "Colback",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Arter",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Cafu",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Ayew",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Mighten",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Dennis",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Surridge",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Taylor",
+                  "fee": "Free"
+              }
+          ]
+      },
+      {
+          "team": "Sheffield Utd",
+          "teamShort": "SHU",
+          "teamBGC": "red",
+          "ins": [
+              {
+                  "player": "Handanovic",
+                  "from": "Inter",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Coady",
+                  "from": "Everton",
+                  "fee": 4500000
+              },
+              {
+                  "player": "Caleta-Car",
+                  "from": "Southampton",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Spence",
+                  "from": "Tottenham",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Maitland-Niles",
+                  "from": "Arsenal",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Chirivella",
+                  "from": "Nantes",
+                  "fee": 9500000
+              },
+              {
+                  "player": "O'Brien",
+                  "from": "Nottingham Forest",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Gyokores",
+                  "from": "Coventry",
+                  "fee": 7000000
+              },
+              {
+                  "player": "Calvert-Lewin",
+                  "from": "Everton",
+                  "fee": "Loan"
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Foderingham",
+                  "fee": "Free"
+              },
+              {
+                  "player": "O'Connell",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Baldock",
+                  "fee": 1100000
+              },
+              {
+                  "player": "Norrington-Davies",
+                  "fee": 3700000
+              },
+              {
+                  "player": "McBurnie",
+                  "fee": "Free"
+              }
+          ]
+      },
+      {
+          "team": "Tottenham",
+          "teamShort": "TOT",
+          "teamBGC": "white",
+          "ins": [
+              {
+                  "player": "Pickford",
+                  "from": "Everton",
+                  "fee": 25000000
+              },
+              {
+                  "player": "Maguire",
+                  "from": "Manchester Utd",
+                  "fee": 12000000
+              },
+              {
+                  "player": "Hincapie",
+                  "from": "Bayer Leverkusen",
+                  "fee": 42400000
+              },
+              {
+                  "player": "Kamada",
+                  "from": "Eintracht Frankfurt",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Soler",
+                  "from": "PSG",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "David",
+                  "from": "Lille",
+                  "fee": 45000000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Lloris",
+                  "fee": 3700000
+              },
+              {
+                  "player": "Tanganga",
+                  "fee": 10500000
+              },
+              {
+                  "player": "Sanchez",
+                  "fee": 8800000
+              },
+              {
+                  "player": "Reguilon",
+                  "fee": 15000000
+              },
+              {
+                  "player": "Winks",
+                  "fee": 7900000
+              },
+              {
+                  "player": "Ndombele",
+                  "fee": 28700000
+              },
+              {
+                  "player": "Lo Celso",
+                  "fee": 19300000
+              },
+              {
+                  "player": "Kane",
+                  "fee": 75000000
+              },
+              {
+                  "player": "Spence",
+                  "fee": "Loan"
+              }
+          ]
+      },
+      {
+          "team": "West Ham",
+          "teamShort": "WHU",
+          "teamBGC": "rgb(98, 4, 4)",
+          "ins": [
+              {
+                  "player": "Holding",
+                  "from": "Arsenal",
+                  "fee": 10500000
+              },
+              {
+                  "player": "Doig",
+                  "from": "Hellas Verona",
+                  "fee": 11800000
+              },
+              {
+                  "player": "Walker-Peters",
+                  "from": "Southampton",
+                  "fee": 20000000
+              },
+              {
+                  "player": "Onana",
+                  "from": "Everton",
+                  "fee": 36100000
+              },
+              {
+                  "player": "McTominay",
+                  "from": "Manchester Utd",
+                  "fee": 25000000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Ogbonna",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Cresswell",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Coufal",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Rice",
+                  "fee": 65000000
+              },
+              {
+                  "player": "Lanzini",
+                  "fee": "Free"
+              }
+          ]
+      },
+      {
+          "team": "Wolves",
+          "teamShort": "WOL",
+          "teamBGC": "rgb(220, 204, 25)",
+          "ins": [
+              {
+                  "player": "Medina",
+                  "from": "Lens",
+                  "fee": 14700000
+              },
+              {
+                  "player": "Aarons",
+                  "from": "Norwich City",
+                  "fee": 11000000
+              },
+              {
+                  "player": "Eustaquio",
+                  "from": "Porto",
+                  "fee": 22600000
+              },
+              {
+                  "player": "Iwobi",
+                  "from": "Everton",
+                  "fee": 11000000
+              },
+              {
+                  "player": "Cunha",
+                  "from": "Atletico Madrid",
+                  "fee": 34000000
+              },
+              {
+                  "player": "En-Nyseri",
+                  "from": "Sevilla",
+                  "fee": 14900000
+              }
+          ],
+          "outs": [
+              {
+                  "player": "Hoever",
+                  "fee": "Loan"
+              },
+              {
+                  "player": "Neves",
+                  "fee": 44000000
+              },
+              {
+                  "player": "Nunes",
+                  "fee": 45000000
+              },
+              {
+                  "player": "Traore",
+                  "fee": "Free"
+              },
+              {
+                  "player": "Guedes",
+                  "fee": 20000000
+              },
+              {
+                  "player": "Jimenez",
+                  "fee": 6400000
+              },
+              {
+                  "player": "Costa",
+                  "fee": "Free"
+              }
+          ]
+      }
+  ]
+}
