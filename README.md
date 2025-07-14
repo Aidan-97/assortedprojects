@@ -7,8 +7,8 @@ As the title suggests, this is an assortment of personal coding projects ranging
 Inspired by games like 'Wordle' & 'Who Are Ya?', this is a guessing game based around my favourite video game franchise, Insomniac's 'Ratchet & Clank' series and the weapons you can unlock in them. The aim is to, within 6 guesses, find the randomly selected 'target' weapon, with each guess showing in how many of 6 chosen categories (Console, Game, Planet/Level, Range, Rate of Fire & Cost (Bolts)) your guess correctly matches the target weapon. I created the Java version first before, more recently, trying to create a more visually appealing version in ReactJS (the Java version uses basic 'swing' package GUIs). Screenshots of example playthroughs on both mobile & browser for most recently updated (15/07/2025) ReactJS version shown below:-
 
 <p align="center">
-  <img src="/Ratchet%20&%20Clank%20Weapon%20Game/RCWG-Pics/Screenshot%2025-07-15%000505.png">
-  <img src="/Ratchet%20&%20Clank%20Weapon%20Game/RCWG-Pics/Screenshot%2025-07-15%003834.png">
+  <img src="/Ratchet%20&%20Clank%20Weapon%20Game/RCWG-Pics/Screenshot 2025-07-15 000505.png">
+  <img src="/Ratchet%20&%20Clank%20Weapon%20Game/RCWG-Pics/Screenshot 2025-07-15 003834.png">
 </p>
 
 ### UPDATE re: ReactJS Version (15/07/25):-
