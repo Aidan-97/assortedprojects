@@ -1,0 +1,1374 @@
+[
+    {
+        "name": "Caterpillar Coaster",
+        "park": "Brean Theme Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2022"
+    },
+    {
+        "name": "Cat-O-Pillar Coaster",
+        "park": "Paultons Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2000"
+    },
+    {
+        "name": "Clown Coaster",
+        "park": "Wicksteed Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2011-10"
+    },
+    {
+        "name": "Clown Coaster",
+        "park": "Camel Creek Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2019-06-01"
+    },
+    {
+        "name": "Cobra",
+        "park": "Paultons Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2006-03-18"
+    },
+    {
+        "name": "Colossus",
+        "park": "Thorpe Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2002-03-22"
+    },
+    {
+        "name": "Cosmic Caterpillar",
+        "park": "The Milky Way Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2008"
+    },
+    {
+        "name": "Cosmic Typhoon",
+        "park": "The Milky Way Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2007-07-07"
+    },
+    {
+        "name": "Crazy Caterpillar",
+        "park": "Bayside Fun Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2012"
+    },
+    {
+        "name": "Crazy Caterpillar",
+        "park": "Sandwell Valley Amusements",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2017"
+    },
+    {
+        "name": "Crazy Caterpillar",
+        "park": "Pettitts Animal Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2019-04-04"
+    },
+    {
+        "name": "Crazy Caterpillar",
+        "park": "Curry's Fun Park Portrush",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2022"
+    },
+    {
+        "name": "Crazy Coaster",
+        "park": "South Pier",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2018"
+    },
+    {
+        "name": "Crazy Mouse",
+        "park": "Brighton Palace Pier",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2000-05"
+    },
+    {
+        "name": "Crazy Mouse",
+        "park": "Gulliver's Land Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1999"
+    },
+    {
+        "name": "Crazy Mouse",
+        "park": "Brean Theme Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2025"
+    },
+    {
+        "name": "Cyclone",
+        "park": "Barry Island Pleasure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2018"
+    },
+    {
+        "name": "Dino Chase",
+        "park": "Paultons Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2003"
+    },
+    {
+        "name": "Dinosaur Valley",
+        "park": "Wicksteed Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1992"
+    },
+    {
+        "name": "Disney Rollercoaster",
+        "park": "Springfields Fun Park & Pony Centre",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2025"
+    },
+    {
+        "name": "Doggy Dog",
+        "park": "Old MacDonald's Farm",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2016-03-20"
+    },
+    {
+        "name": "Dragon",
+        "park": "Legoland Windsor",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1998-03-14"
+    },
+    {
+        "name": "Dragon Challenge",
+        "park": "Barry Island Pleasure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2018"
+    },
+    {
+        "name": "Dragon Coaster",
+        "park": "Blair Drummond Safari and Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2008"
+    },
+    {
+        "name": "Grand Prix Racers",
+        "park": "Gulliver's Land Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2022-07-23"
+    },
+    {
+        "name": "Grand Prix Racers",
+        "park": "Gulliver's World Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2023"
+    },
+    {
+        "name": "Grand Prix Racers",
+        "park": "Gulliver's Valley Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021-05-28"
+    },
+    {
+        "name": "Green Dragon",
+        "park": "GreenWood Forest Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2004-05-29"
+    },
+    {
+        "name": "Green Scream",
+        "park": "Adventure Island",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1999"
+    },
+    {
+        "name": "Happy Caterpillar",
+        "park": "Kidz Island",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2020-07-04"
+    },
+    {
+        "name": "Happy Caterpillar",
+        "park": "Hastings Pier",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2025"
+    },
+    {
+        "name": "Hero",
+        "park": "Flamingo Land",
+        "type": "Steel",
+        "design": "Flying",
+        "time": "2013-07-16"
+    },
+    {
+        "name": "High Hazel Mini Mine Coaster",
+        "park": "Wheelgate Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2003"
+    },
+    {
+        "name": "Hyperia",
+        "park": "Thorpe Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2024-05-24"
+    },
+    {
+        "name": "Icon",
+        "park": "Pleasure Beach Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2018-05-25"
+    },
+    {
+        "name": "Infusion",
+        "park": "Pleasure Beach Resort",
+        "type": "Steel",
+        "design": "Inverted",
+        "time": "2007-05-02"
+    },
+    {
+        "name": "Jellikins Coaster",
+        "park": "Fantasy Island",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1996"
+    },
+    {
+        "name": "Jormungandr",
+        "park": "Drayton Manor",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1987"
+    },
+    {
+        "name": "Kiddies Coaster",
+        "park": "Dudley Zoo and Castle",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2010"
+    },
+    {
+        "name": "Kiddi Koasta",
+        "park": "Adventure Island",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2011"
+    },
+    {
+        "name": "Kumali",
+        "park": "Flamingo Land",
+        "type": "Steel",
+        "design": "Inverted",
+        "time": "2006-04-01"
+    },
+    {
+        "name": "Ladybird",
+        "park": "Lightwater Valley",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1993"
+    },
+    {
+        "name": "Ladybird",
+        "park": "Wicksteed Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1999"
+    },
+    {
+        "name": "Little Dipper",
+        "park": "Mack's Amusements",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1975"
+    },
+    {
+        "name": "Log Coaster",
+        "park": "Gulliver's Kingdom Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1987"
+    },
+    {
+        "name": "Looping Star",
+        "park": "Clacton Pier",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021-10-23"
+    },
+    {
+        "name": "Mad Mouse",
+        "park": "Clarence Pier",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2019-03-02"
+    },
+    {
+        "name": "Mad Mouse",
+        "park": "Gateway Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021-11-05"
+    },
+    {
+        "name": "Accelerator",
+        "park": "Drayton Manor",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2011-04-21"
+    },
+    {
+        "name": "African Big Apple",
+        "park": "West Midlands Safari Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1999"
+    },
+    {
+        "name": "Alpine Coaster",
+        "park": "Midlothian Snowsports Centre",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2024-09-14"
+    },
+    {
+        "name": "Antelope",
+        "park": "Gulliver's World Resort",
+        "type": "Wood",
+        "design": "Sit Down",
+        "time": "1995"
+    },
+    {
+        "name": "Apple Coaster",
+        "park": "Codona's Amusement Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2019"
+    },
+    {
+        "name": "Astro Storm",
+        "park": "Brean Theme Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2011-07-23"
+    },
+    {
+        "name": "Avalanche",
+        "park": "Pleasure Beach Resort",
+        "type": "Steel",
+        "design": "Bobsled",
+        "time": "1988-06-22"
+    },
+    {
+        "name": "Barnstormer",
+        "park": "Adventure Island",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2000"
+    },
+    {
+        "name": "Big Apple",
+        "park": "Great Yarmouth Pleasure Beach",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1998"
+    },
+    {
+        "name": "Big Apple",
+        "park": "Botton's Pleasure Beach",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1987"
+    },
+    {
+        "name": "Big Apple",
+        "park": "West Sands Fun Fair",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2012"
+    },
+    {
+        "name": "Big Apple",
+        "park": "M&Ds Scotland's Theme Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021"
+    },
+    {
+        "name": "Big Dipper",
+        "park": "Pleasure Beach Resort",
+        "type": "Wood",
+        "design": "Sit Down",
+        "time": "1923-08-23"
+    },
+    {
+        "name": "Big One",
+        "park": "Pleasure Beach Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1994-05-28"
+    },
+    {
+        "name": "Black Bull Run",
+        "park": "Colin Glen Forest Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021-07-07"
+    },
+    {
+        "name": "Blue Flyer",
+        "park": "Pleasure Beach Resort",
+        "type": "Wood",
+        "design": "Sit Down",
+        "time": "1934"
+    },
+    {
+        "name": "Buffalo Stampede",
+        "park": "Twinlakes Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2007-05-19"
+    },
+    {
+        "name": "Bulldog Coaster",
+        "park": "Brean Theme Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2023-08-09"
+    },
+    {
+        "name": "Busy Bee Coaster",
+        "park": "Dreamland",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2017"
+    },
+    {
+        "name": "Cannonball Express",
+        "park": "Pleasurewood Hills",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1985"
+    },
+    {
+        "name": "Captain Jacks Runaway Train",
+        "park": "Pirates Cove Fun Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2013-07"
+    },
+    {
+        "name": "Caterpillar",
+        "park": "Lightwater Valley",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021"
+    },
+    {
+        "name": "Caterpillar Coaster",
+        "park": "Cambrian Kiddies Fun Fair",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2006"
+    },
+    {
+        "name": "Caterpillar Coaster",
+        "park": "Primrose Valley Holiday Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2016"
+    },
+    {
+        "name": "Dragon's Apprentice",
+        "park": "Legoland Windsor",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1999-03"
+    },
+    {
+        "name": "Dragon's Fury",
+        "park": "Chessington World of Adventures",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2004-03-27"
+    },
+    {
+        "name": "DUPLO Dino Coaster",
+        "park": "Legoland Windsor",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2020-03-14"
+    },
+    {
+        "name": "Egg-Spress",
+        "park": "Pleasurewood Hills",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1986"
+    },
+    {
+        "name": "E.R.S.",
+        "park": "Babylon Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2022-06"
+    },
+    {
+        "name": "Family Coaster",
+        "park": "Dymchurch Amusement Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2018"
+    },
+    {
+        "name": "Family Coaster",
+        "park": "New Brighton Funfair",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021"
+    },
+    {
+        "name": "Family Coaster",
+        "park": "Barry Island Promenade Fun Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2022-02"
+    },
+    {
+        "name": "Family Coaster Crazy Clown",
+        "park": "Fantasy Island",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2023-10-05"
+    },
+    {
+        "name": "Family Ride",
+        "park": "Gateway Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2023"
+    },
+    {
+        "name": "Family Roller Coaster",
+        "park": "Fantasy Island",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021"
+    },
+    {
+        "name": "Family Roller Coaster",
+        "park": "Fun Land",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2023"
+    },
+    {
+        "name": "Family Star",
+        "park": "Great Yarmouth Pleasure Beach",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2013"
+    },
+    {
+        "name": "Farmyard Flyer",
+        "park": "Paultons Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2022-04-01"
+    },
+    {
+        "name": "Fforest Coaster",
+        "park": "Zip World Fforest",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2017-05-11"
+    },
+    {
+        "name": "Flight of the Pterosaur",
+        "park": "Paultons Park",
+        "type": "Steel",
+        "design": "Suspended",
+        "time": "2016-05-17"
+    },
+    {
+        "name": "Flying Fish",
+        "park": "Thorpe Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2007-03-10"
+    },
+    {
+        "name": "Galactica",
+        "park": "Alton Towers",
+        "type": "Steel",
+        "design": "Flying",
+        "time": "2002-03-16"
+    },
+    {
+        "name": "Go-Gator",
+        "park": "Coney Beach Pleasure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2006"
+    },
+    {
+        "name": "Go-Gator",
+        "park": "Clifton Park Amusements",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2010"
+    },
+    {
+        "name": "Go-Gator",
+        "park": "Bayside Fun Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2023"
+    },
+    {
+        "name": "Goldmine Express",
+        "park": "Knightly's Funfair",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2022"
+    },
+    {
+        "name": "Gold Rush",
+        "park": "Drayton Manor",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2024-07-26"
+    },
+    {
+        "name": "Grand National",
+        "park": "Pleasure Beach Resort",
+        "type": "Wood",
+        "design": "Sit Down",
+        "time": "1935"
+    },
+    {
+        "name": "Pinball X",
+        "park": "Flamingo Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021-05-01"
+    },
+    {
+        "name": "Queen Bee",
+        "park": "Botton's Pleasure Beach",
+        "type": "Steel",
+        "design": "Inverted",
+        "time": "2002"
+    },
+    {
+        "name": "Racing Coaster",
+        "park": "Britannia Pier",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2023"
+    },
+    {
+        "name": "Rage",
+        "park": "Adventure Island",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2007-02-10"
+    },
+    {
+        "name": "Rampage",
+        "park": "Big Sheep",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2016-03-25"
+    },
+    {
+        "name": "Rattlesnake",
+        "park": "Chessington World of Adventures",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1998"
+    },
+    {
+        "name": "Rattle Snake",
+        "park": "Knowsley Safari",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2002-03-29"
+    },
+    {
+        "name": "Revolution",
+        "park": "Pleasure Beach Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1979"
+    },
+    {
+        "name": "Rhino Coaster",
+        "park": "West Midlands Safari Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1992"
+    },
+    {
+        "name": "Rhombus Express",
+        "park": "Fantasy Island",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1995"
+    },
+    {
+        "name": "Rita",
+        "park": "Alton Towers",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2005-04-01"
+    },
+    {
+        "name": "Rockin Roller",
+        "park": "Botton's Pleasure Beach",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2006-06"
+    },
+    {
+        "name": "Rock 'n' Roller",
+        "park": "Dreamland",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2023-04-01"
+    },
+    {
+        "name": "Rocky Ridge Railway",
+        "park": "Gulliver's Valley Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2020-07-11"
+    },
+    {
+        "name": "Rocky Roller Coaster",
+        "park": "Pettitts Animal Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2002"
+    },
+    {
+        "name": "Roller Coaster",
+        "park": "Great Yarmouth Pleasure Beach",
+        "type": "Wood",
+        "design": "Sit Down",
+        "time": "1932"
+    },
+    {
+        "name": "Roller Coaster",
+        "park": "Clifton Park Amusements",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2006"
+    },
+    {
+        "name": "Roller Coaster",
+        "park": "Dunes Leisure",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2019-04-06"
+    },
+    {
+        "name": "Roller Coaster",
+        "park": "Marleybrook Funfair",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2019"
+    },
+    {
+        "name": "Rum Runner",
+        "park": "Twinlakes Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2018"
+    },
+    {
+        "name": "Runaway Mine Train",
+        "park": "Alton Towers",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1992"
+    },
+    {
+        "name": "Runaway Mine Train",
+        "park": "Funland Amusement Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2016-02-27"
+    },
+    {
+        "name": "Runaway Mine Train",
+        "park": "Flamingo Land",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2020"
+    },
+    {
+        "name": "Runaway Mine Train",
+        "park": "M&Ds Scotland's Theme Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2017"
+    },
+    {
+        "name": "Runaway Train",
+        "park": "Botton's Pleasure Beach",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1991"
+    },
+    {
+        "name": "Runaway Train",
+        "park": "Gulliver's Land Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2002"
+    },
+    {
+        "name": "Runaway Train",
+        "park": "St Nicholas Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2016-04"
+    },
+    {
+        "name": "Runaway Train",
+        "park": "New Brighton Funfair",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021"
+    },
+    {
+        "name": "Runaway Train",
+        "park": "Llandudno Pier",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021"
+    },
+    {
+        "name": "Runaway Train",
+        "park": "Fun Land",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2022-04-01"
+    },
+    {
+        "name": "Runaway Train",
+        "park": "Pleasurelands",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2023"
+    },
+    {
+        "name": "Runaway Train",
+        "park": "Santa Fe Funpark",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2024"
+    },
+    {
+        "name": "Runaway Train",
+        "park": "Clarence Pier",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2025"
+    },
+    {
+        "name": "Runaway Train",
+        "park": "Kiddieland",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2025"
+    },
+    {
+        "name": "Saw - The Ride",
+        "park": "Thorpe Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2009-03-14"
+    },
+    {
+        "name": "Sea Dragon",
+        "park": "Rainbow Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1996"
+    },
+    {
+        "name": "Shark Bay",
+        "park": "Crealy Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2014-02-15"
+    },
+    {
+        "name": "Shark Coaster",
+        "park": "Pavilion Fun Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2023"
+    },
+    {
+        "name": "Sik",
+        "park": "Flamingo Land",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2022-07-02"
+    },
+    {
+        "name": "Smiler",
+        "park": "Alton Towers",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2013-05-31"
+    },
+    {
+        "name": "Snow Drift",
+        "park": "Fantasy Island",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2025-08-03"
+    },
+    {
+        "name": "Speedy Coaster",
+        "park": "Ocean Beach Pleasure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2018"
+    },
+    {
+        "name": "Speedy Coaster",
+        "park": "Rhyl Fun Fair",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2022"
+    },
+    {
+        "name": "Spinball Whizzer",
+        "park": "Alton Towers",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2004-03-27"
+    },
+    {
+        "name": "Spinning Coaster",
+        "park": "Cannon Hill Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2016-06-12"
+    },
+    {
+        "name": "Spinning Coaster",
+        "park": "Ocean Beach Pleasure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2024"
+    },
+    {
+        "name": "Spinosaurus",
+        "park": "Funland Amusement Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021-12-04"
+    },
+    {
+        "name": "Spook Express",
+        "park": "Joyland Childrens Fun Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1998"
+    },
+    {
+        "name": "Wriggler",
+        "park": "Gulliver's Valley Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2023-02-11"
+    },
+    {
+        "name": "Wriggler",
+        "park": "Gulliver's World Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2024"
+    },
+    {
+        "name": "Ziggy's Blast Quest",
+        "park": "The Milky Way Adventure Park",
+        "type": "Steel",
+        "design": "Suspended",
+        "time": "1997"
+    },
+    {
+        "name": "Zooom!",
+        "park": "Flamingo Land",
+        "type": "Steel",
+        "design": "Suspended",
+        "time": "2011-07-02"
+    },
+    {
+        "name": "Stealth",
+        "park": "Thorpe Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2006-03-15"
+    },
+    {
+        "name": "Steeplechase",
+        "park": "Pleasure Beach Resort",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1977"
+    },
+    {
+        "name": "Storm Chaser",
+        "park": "Paultons Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021-04-12"
+    },
+    {
+        "name": "Super Dragon",
+        "park": "Treasure Island Amusement Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1999"
+    },
+    {
+        "name": "Swarm",
+        "park": "Thorpe Park",
+        "type": "Steel",
+        "design": "Wing",
+        "time": "2012-03-15"
+    },
+    {
+        "name": "Th13teen",
+        "park": "Alton Towers",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2010-03-20"
+    },
+    {
+        "name": "Tidal Wave",
+        "park": "Clarence Pier",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2019-04-10"
+    },
+    {
+        "name": "Tower Coaster",
+        "park": "Zip World Tower",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021-07-03"
+    },
+    {
+        "name": "Troublesome Trucks Runaway Coaster",
+        "park": "Drayton Manor",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2008-03-15"
+    },
+    {
+        "name": "Turbo",
+        "park": "Brighton Palace Pier",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1996"
+    },
+    {
+        "name": "Twister Rollercoaster",
+        "park": "Crealy Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2015-07-19"
+    },
+    {
+        "name": "Twistosaurus",
+        "park": "Flamingo Land",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2013-05-25"
+    },
+    {
+        "name": "Tyrolean Tubtwist",
+        "park": "Joyland Childrens Fun Park",
+        "type": "Wood",
+        "design": "Sit Down",
+        "time": "1950"
+    },
+    {
+        "name": "Vampire",
+        "park": "Chessington World of Adventures",
+        "type": "Steel",
+        "design": "Suspended",
+        "time": "1990-04-11"
+    },
+    {
+        "name": "Velociraptor",
+        "park": "Paultons Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2016-05-17"
+    },
+    {
+        "name": "Velocity",
+        "park": "Flamingo Land",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2005-07-02"
+    },
+    {
+        "name": "Wacky Worm",
+        "park": "Funder Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2016"
+    },
+    {
+        "name": "Wacky Worm",
+        "park": "Coney Beach Pleasure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021"
+    },
+    {
+        "name": "Walking Dead - The Ride",
+        "park": "Thorpe Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1996-03-23"
+    },
+    {
+        "name": "Wave",
+        "park": "Drayton Manor",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1994"
+    },
+    {
+        "name": "Whirlwind",
+        "park": "Great Yarmouth Pleasure Beach",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2022-03-26"
+    },
+    {
+        "name": "Wicker Man",
+        "park": "Alton Towers",
+        "type": "Wood",
+        "design": "Sit Down",
+        "time": "2018-03-20"
+    },
+    {
+        "name": "Wild Mouse Coaster",
+        "park": "Clacton Pier",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2000"
+    },
+    {
+        "name": "Wipeout",
+        "park": "Pleasurewood Hills",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2007-07-28"
+    },
+    {
+        "name": "Magic Dragon",
+        "park": "Camel Creek Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2021"
+    },
+    {
+        "name": "Magic Mouse",
+        "park": "Fun Land",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2022-04-01"
+    },
+    {
+        "name": "Mandrill Mayhem",
+        "park": "Chessington World of Adventures",
+        "type": "Steel",
+        "design": "Wing",
+        "time": "2023-05-15"
+    },
+    {
+        "name": "Marble Madness",
+        "park": "Pleasurewood Hills",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2014-06-27"
+    },
+    {
+        "name": "Maximus",
+        "park": "Crealy Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2000"
+    },
+    {
+        "name": "Mercury's Mini Coaster",
+        "park": "Twinlakes Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2004"
+    },
+    {
+        "name": "Mighty Mini Mega",
+        "park": "Adventure Island",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2003"
+    },
+    {
+        "name": "Millennium",
+        "park": "Fantasy Island",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1999-05-22"
+    },
+    {
+        "name": "Miner Mike",
+        "park": "Dunes Leisure",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2013"
+    },
+    {
+        "name": "Mine Train",
+        "park": "Web Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2024-03-23"
+    },
+    {
+        "name": "Minifigure Speedway",
+        "park": "Legoland Windsor",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2024-04-06"
+    },
+    {
+        "name": "Monkey Mayhem",
+        "park": "West Midlands Safari Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1998"
+    },
+    {
+        "name": "Morgawr",
+        "park": "Camel Creek Adventure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2010"
+    },
+    {
+        "name": "Mumbo Jumbo",
+        "park": "Flamingo Land",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2009-07-04"
+    },
+    {
+        "name": "Nemesis Inferno",
+        "park": "Thorpe Park",
+        "type": "Steel",
+        "design": "Inverted",
+        "time": "2003-04-05"
+    },
+    {
+        "name": "Nemesis Reborn",
+        "park": "Alton Towers",
+        "type": "Steel",
+        "design": "Inverted",
+        "time": "1994-03-19"
+    },
+    {
+        "name": "Nessi",
+        "park": "Coney Beach Pleasure Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2002"
+    },
+    {
+        "name": "Nessi",
+        "park": "Rhyl Fun Fair",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2005"
+    },
+    {
+        "name": "Nickelodeon Streak",
+        "park": "Pleasure Beach Resort",
+        "type": "Wood",
+        "design": "Sit Down",
+        "time": "1933"
+    },
+    {
+        "name": "Oblivion",
+        "park": "Alton Towers",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "1998-03-14"
+    },
+    {
+        "name": "Ocean Coaster",
+        "park": "Harbour Park",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2008-03-23"
+    },
+    {
+        "name": "Octonauts Rollercoaster Adventure",
+        "park": "Alton Towers",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2015-03-21"
+    },
+    {
+        "name": "Odin's Little Dragon Coaster",
+        "park": "Adventure Coast Southport",
+        "type": "Steel",
+        "design": "Sit Down",
+        "time": "2016"
+    },
+    {
+        "name": "Odyssey",
+        "park": "Fantasy Island",
+        "type": "Steel",
+        "design": "Inverted",
+        "time": "2002-05-25"
+    }
+]
