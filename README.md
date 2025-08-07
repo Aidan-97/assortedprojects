@@ -23,8 +23,10 @@ More interesting than the exercise solutions, but not as large/complex as the Ra
 
 ![Screenshot of Anagram Game partial example playthrough.](/Other%20Projects/OP-Pics/Screenshot%202023-03-24%20185931.jpg)
 
-### Update (10/04/23):-
-New ReactJS mini-project added: 'Mock PL Transfer Window Info'. A list of tables displaying mock Premier League transfer window ins & outs, with this mock info fetched from a json file created with 'json-server'. Done as a small personal challenge in rendering objects via iterating through json data, so currently visually somewhat basic. Possible future updates would mostly include improved visuals (e.g. more clear, visually appealing version of net spend chart).
+### Update (07/08/25):-
+New project added: 'UK Coaster Info Scraper'. Data regarding rollercoasters in the UK scraped from rcdb.com using NodeJS & Cheerio, used to create simple page of charts, cards etc. to display said data (partial screenshot of 2 created charts shown below):-
+
+![Screenshot of rollercoaster charts.](Other%20Projects/OP-Pics/Screenshot%202025-08-05%20214508.png)
 
 ## Codility & Hackajob Practice Exercises
 Small programs, solutions to an assortment of programming practice exercises found on the Codility & Hackajob platforms. All of these were done in Java.
