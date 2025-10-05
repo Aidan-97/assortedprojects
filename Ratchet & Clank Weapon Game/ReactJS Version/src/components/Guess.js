@@ -5,6 +5,8 @@ import ReactCardFlip from "react-card-flip";
 
 export default function Guess({guessStats, targetStats, isFlipped}){
 
+    // Separately styled guess panels for browser vs mobile shonw below, created using 'styled-components' npm package
+
     const PaperStyle = styled.div`
         .paper{
             height: 40px;
@@ -31,6 +33,8 @@ export default function Guess({guessStats, targetStats, isFlipped}){
     const targetStatsArray = [targetStats.console, targetStats.game, targetStats.planet, targetStats.range, targetStats.rof, targetStats.cost];
 
     const mobilePanelArray = ["Console", "Game", "Planet/Level", "Range", "Rate of Fire", "Cost (Bolts)"];
+ 
+    // For both browser & mobile, panels start as gray before guess is made, then flip to reveal green panel if current guessed weapon matches target weapon in corresponding category, or red panel shown if no match
 
     return (
 
@@ -45,9 +49,9 @@ export default function Guess({guessStats, targetStats, isFlipped}){
                             </PaperStyle>
                             <PaperStyle>
                                 {guessStatsArray[value] === targetStatsArray[value] ?
-                                    <Paper className="paper" style={{backgroundColor: "green"}}><div style={{textAlign: "center", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "80%", fontWeight: 600}}>{guessStatsArray[value]}</div></Paper> 
+                                    <Paper className="paper" style={{backgroundColor: "green"}}><div style={{textAlign: "center", display: "flex", alignItems: "center", justifyContent: "center", fontFamily: "SD", fontWeight: 600}}>{guessStatsArray[value]}</div></Paper> 
                                     :
-                                    <Paper className="paper" style={{backgroundColor: "red"}}><div style={{textAlign: "center", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "80%", fontWeight: 600}}>{guessStatsArray[value]}</div></Paper>
+                                    <Paper className="paper" style={{backgroundColor: "red"}}><div style={{textAlign: "center", display: "flex", alignItems: "center", justifyContent: "center", fontFamily: "SD", fontWeight: 600}}>{guessStatsArray[value]}</div></Paper>
                                 }
                             </PaperStyle>
                         </ReactCardFlip>
@@ -60,13 +64,13 @@ export default function Guess({guessStats, targetStats, isFlipped}){
                 <Grid item>
                     <ReactCardFlip flipDirection='horizontal' isFlipped={isFlipped}>
                         <MobilePaperStyle>
-                            <Paper className="m-paper" style={{backgroundColor: "lightgray"}}><div style={{textAlign: "center", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "80%", fontWeight: 600}}>{mobilePanelArray[value]}</div></Paper>
+                            <Paper className="m-paper" style={{backgroundColor: "lightgray"}}><div style={{textAlign: "center", display: "flex", alignItems: "center", justifyContent: "center", fontFamily: "SD", fontWeight: 600}}>{mobilePanelArray[value]}</div></Paper>
                         </MobilePaperStyle>
                         <MobilePaperStyle>
                             {guessStatsArray[value] === targetStatsArray[value] ?
-                                <Paper className="m-paper" style={{backgroundColor: "green"}}><div style={{textAlign: "center", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "80%", fontWeight: 600}}>{guessStatsArray[value]}</div></Paper> 
+                                <Paper className="m-paper" style={{backgroundColor: "green"}}><div style={{textAlign: "center", display: "flex", alignItems: "center", justifyContent: "center", fontFamily: "SD", fontWeight: 600}}>{guessStatsArray[value]}</div></Paper> 
                                 :
-                                <Paper className="m-paper" style={{backgroundColor: "red"}}><div style={{textAlign: "center", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "80%", fontWeight: 600}}>{guessStatsArray[value]}</div></Paper>
+                                <Paper className="m-paper" style={{backgroundColor: "red"}}><div style={{textAlign: "center", display: "flex", alignItems: "center", justifyContent: "center", fontFamily: "SD", fontWeight: 600}}>{guessStatsArray[value]}</div></Paper>
                             }
                         </MobilePaperStyle>
                     </ReactCardFlip>
