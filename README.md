@@ -3,10 +3,17 @@
 ## Ratchet & Clank Weapon Game
 Inspired by games like 'Wordle' & 'Who Are Ya?', this is a guessing game based around my favourite video game franchise, Insomniac's 'Ratchet & Clank' series and the weapons you can unlock in them. Includes both a (less refined & older) Java version and a ReactJS version which is playable on mobile & desktop. Screenshots of an example playthrough on mobile shown below:-
 
-<p float="left">
-  <img src="/Ratchet%20&%20Clank%20Weapon%20Game/RCWG-Pics/1000002423.jpg" width="400">
-  <img src="/Ratchet%20&%20Clank%20Weapon%20Game/RCWG-Pics/1000002424.jpg" width="400">
+<p align="center">
+  <img src="/Which%20Weapon?/RCWG-Pics/1000002742.jpg" width="400">
+  <img src="/Which%20Weapon?/RCWG-Pics/1000002743.jpg" width="400">
 </p>
+
+### UPDATE (05/10/2025):-
+  - Renamed from "Ratchet & Clank Weapon Game" to more succint 'Which Weapon?', wrench icon added to game header as well
+  - New font which closely resembles font used in the first 2 Ratchet & Clank games used throughout
+  - Small white box peeking out behind autocomplete input removed
+  - Confirm option now shown for refresh game functionality
+  - Some comments added to code for readbility
 
 ## Other Projects: Java
 Includes three Java programs: an anagram guessing game, hangman, and a tic-tac-toe game made with swing package GUIs. A screenshot of a (partial) example playthrough of the anagram game is shown below:-
