@@ -78,3 +78,8 @@
     background-image: url(images/background.jpg);
   }
 }
+
+@font-face {
+  font-family: "SD";
+  src: url("./fonts/simiandisplay-orangutan.otf") format("opentype");
+}
