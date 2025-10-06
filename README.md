@@ -4,8 +4,8 @@
 Inspired by games like 'Wordle' & 'Who Are Ya?', this is a guessing game based around my favourite video game franchise, Insomniac's 'Ratchet & Clank' series and the weapons you can unlock in them. Includes both a (less refined & older) Java version and a ReactJS version which is playable on mobile & desktop. Screenshots of an example playthrough on mobile shown below:-
 
 <p align="center">
-  <img src="/Which%20Weapon?/RCWG-Pics/1000002742.jpg" width="400">
-  <img src="/Which%20Weapon?/RCWG-Pics/1000002743.jpg" width="400">
+  <img src="https://github.com/Aidan-97/assortedprojects/blob/10ee03395cfa15371f9a9041cebf10a7e4bb2e63/Which%20Weapon%3F/RCWG-Pics/1000002742.jpg" width="400">
+  <img src="https://github.com/Aidan-97/assortedprojects/blob/10ee03395cfa15371f9a9041cebf10a7e4bb2e63/Which%20Weapon%3F/RCWG-Pics/1000002743.jpg" width="400">
 </p>
 
 ### UPDATE (05/10/2025):-
