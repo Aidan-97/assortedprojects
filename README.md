@@ -13,7 +13,7 @@ Inspired by games like 'Wordle' & 'Who Are Ya?', this is a guessing game based a
   - New font which closely resembles font used in the first 2 Ratchet & Clank games used throughout
   - Small white box peeking out behind autocomplete input removed
   - Confirm option now shown for refresh game functionality
-  - Some comments added to code for readbility
+  - Some comments added to code for readability
 
 ## Other Projects: Javascript
 Includes four projects:-
