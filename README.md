@@ -23,7 +23,7 @@ Inspired by games like 'Wordle' & 'Who Are Ya?', this is a guessing game based a
   - Some comments added to code for readability
 
 ## Other Projects: Javascript
-Includes four projects:-
+Includes three projects:-
   - A breakout game (vanillaJS)
   - Mock premier league transfer data display (ReactJS)
   - UK Rollercoaster data web scraper, data scraped from rcdb.com (NodeJS & Cheerio + ReactJS)
